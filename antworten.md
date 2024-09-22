@@ -4,7 +4,7 @@ title:  Fragen und Antworten
 permalink: /antworten/
 ---
 
-[Inhaltliche Antworten](/antworten-inhaltlich/) sind hier. 
+[Inhaltliche Antworten](./antworten-inhaltlich/) sind hier. 
 
 ## Was sind “diese Projekte”?
 
