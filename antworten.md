@@ -4,6 +4,8 @@ title:  Fragen und Antworten
 permalink: /antworten/
 ---
 
+[Inhaltliche Antworten](/antworten-inhaltlich/) sind hier. 
+
 ## Was sind “diese Projekte”?
 
 Es ist ein Name, der so gewählt wurde. Es handelt sich um “Repositories” zu Themenbereichen über die **Informationen (in Textform)** entstehen und entstanden sind. 
