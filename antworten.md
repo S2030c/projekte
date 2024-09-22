@@ -42,7 +42,18 @@ Die Darstellung des Blogs ermöglicht es – dass sukzessive immer wieder Neues 
 
 Es gibt kein explizites Ziel, es soll damit keine Politik betrieben werden. Die Informationen und das Wissen stehen frei zur Verfügung, kann von jedem frei kopiert und benutzt werden. Was jemand daraus macht ist »seine Sache«, allerdings gibt es auch keine Garantie auf irgendwas. Jeder ist für das, was als Schlussfolgerung gezogen wird, selbst verantwortlich. 
 
-Als Ziel könnte in den Raum gestellt werden, dass es sich um Bildung handelt. **Bildung ist**, wenn »ein Bild (eine Vorstellung) entsteht«. Welches Bild (Vorstellung) es ist, kann zwar erwünscht werden, aber nicht erzwungen. Wenn Information und Wissen zu nachvollziehbaren plausiblen (aufgeklärten) Vorstellungen werden, dann ist das bereits sehr viel. 
+Als Ziel könnte in den Raum gestellt werden, dass es sich um Bildung handelt. **Bildung ist**, wenn »ein Bild (eine Vorstellung) entsteht«. Welches Bild (Vorstellung) es ist, kann zwar erwünscht werden, aber nicht erzwungen. Wenn Information und Wissen zu ur plausiblen (aufgeklärten) Vorstellungen werden, dann ist das bereits sehr viel. 
+
+## Warum die Aufteilung in mehrere Repositories (WebSites)
+
+Man könnte durchaus *einen Blog* aus allem machen und das mit Kategorien trennen; allerdings handelt es sich bei den Kategorien und Themenbereichen um gewissermassen *separierte eigenständige Aspekte*. Zumindest wird das oft so wahrgenommen. Sicherlich kommen Ideologien, Philosophie und Diskurse auf entsprechender Ebene alle zusammen, viele Bereiche sind dennoch nicht immer augenscheinlich un direkt miteinander verbunden. 
+
+Hinzu kommt, dass man gegebenenfalls einen bestimmten Bereich separat von anderen nach außen hin vermitteln möchte. Einige Bereiche (wie beispielsweise Suffizienz) sind enorm speziell, und werden von manchen Personen, die auch politische Themen als wichtig erachten sehr kontrovers gesehen, und vielleicht abgelehnt. Eine solche Ablehnung würde von vornherein dazu führen dass sich jemand Informationen und Wissen überhaupt nicht erst anschaut. Das sollte verhindert werden. Es gibt mehrere Gründe für das separieren der Bereiche, es wurde so gemacht, weil es spezifische Gründe gab dafür, und es war eine bisher passende Entscheidung. 
+
+
+
+
+----
 
 **Mögen die Texte nützlich sein.**
 
