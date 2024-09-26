@@ -28,3 +28,12 @@ Der Wert des Menschen ist eine Frage, die Philosophen seit Jahrtausenden beschä
 [Text lesen](https://s2030c.github.io/gesellschaftskritik/doc/der-mensch-als-selbstzweck/)
 
 ----
+
+### Wohlwollen als Fundament und seine Erosion
+
+Wohlwollen, eine Haltung des guten Willens, der Wertschätzung und der Mitmenschlichkeit, ist seit jeher als grundlegende Säule einer funktionierenden Gesellschaft betrachtet worden. Es ist die Fähigkeit, sich in andere hineinzuversetzen, ihre Perspektiven zu verstehen und ihnen mit Empathie und Unterstützung zu begegnen. Wohlwollen ist der Kitt, der eine Gemeinschaft zusammenhält und das Zusammenleben erst ermöglicht.
+
+[Text lesen](https://s2030c.github.io/gemeinwesen/wohlwollen-als-fundament/)
+
+----
+
