@@ -5,7 +5,7 @@ Inhalt (im Vergleich zur Form) ist das, worum es *in einer Betrachtung* geht, w�
 
 Inhalt ist das, wor체ber wir sprechen, w채hrend Form und Struktur bestimmen, wie wir dar체ber sprechen.
 
-*Der Inhalt wird durch ihre Form gepr채gt*. Die Art und Weise, wie wir etwas sagen, beeinflusst, *wie etwas verstanden wird*. 
+*Der Inhalt wird durch ihre Form gepr채gt*. Die Art und Weise, wie wir etwas sagen, beeinflusst, *wie etwas verstanden wird*. (Inhalt wird durch die Form gepr채gt, aber nicht durch sie bestimmt.)
 
 Ein und dieselbe Idee kann je nach Formulierung ganz unterschiedliche Bedeutungen und Wirkungen entfalten. Umgekehrt wird die Form einer Aussage durch ihren Inhalt bestimmt. Der **Inhalt gibt der Form (durch Kontext) ihre Richtung und ihren Sinn**.
 
