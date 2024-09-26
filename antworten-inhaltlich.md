@@ -1,29 +1,29 @@
 
-### Was ist mit Inhalt gemeint?
+### [1] Was ist mit Inhalt gemeint?
 
 Inhalt (im Vergleich zur Form) ist das, worum es *in einer Betrachtung* geht, während die Form *die Art der Vermittlung* darstellt.
 
 Inhalt ist das, worüber wir sprechen, während Form und Struktur bestimmen, wie wir darüber sprechen.
 
-**Der Inhalt wird durch ihre Form gepräg**t. Die Art und Weise, wie wir etwas sagen, beeinflusst, **wie es verstanden wird**. 
+*Der Inhalt wird durch ihre Form geprägt*. Die Art und Weise, wie wir etwas sagen, beeinflusst, *wie etwas verstanden wird*. 
 
 Ein und dieselbe Idee kann je nach Formulierung ganz unterschiedliche Bedeutungen und Wirkungen entfalten. Umgekehrt wird die Form einer Aussage durch ihren Inhalt bestimmt. Der **Inhalt gibt der Form (durch Kontext) ihre Richtung und ihren Sinn**.
 
-Die Frage nach Inhalt \- geht schon tief in einzelne Bereiche der Betrachtung hinein.
+Die Frage nach Inhalt – geht schon tief in einzelne Bereiche der Betrachtung hinein.
 
-### Wie entsteht die Wahl der einzelnen Bereiche und Themenfelder für Inhalt und Texte?
+### [2] Wie entsteht die Wahl der einzelnen Bereiche und Themenfelder für Inhalt und Texte?
 
 Es entsteht eine Inspiration durch Aspekte des Lebens sowie verschiedene Prozesse und Ereignisse. Die Gestalt der Wahl ist ein künstlerischer Prozess. Die genaue Analyse wäre schwierig. Es entsteht durch Inspiration.
 
-### Warum ist die Form eines Blog-Stils in der Organisation der Darstellung im Web gewählt?
+### [3] Warum ist die Form eines Blog-Stils in der Organisation der Darstellung im Web gewählt?
 
-Das trifft den Charakter *wie (beim “Autor”) Inhalt und Themenbereiche entstehen* am besten.
+Das trifft den Charakter *wie (beim “Autor”) Inhalt und Themenbereiche entstehen* am besten. Themenbereiche lassen sich oft nicht in kurzer Form und schon gar nicht als eine einheitliche Erzählung erschießen, aber auch nicht als solche darstellen.
 
-Es kommt immer wieder etwas dazu, weil ein Themenbereich nicht abgeschlossen ist, aber auch nicht abschließend dargestellt werden kann und dies auch nicht werden soll. Auch sollte nicht einmal ein Eindruck vermittelt werden, als ob man Themenbereiche überhaupt abschließen könne. 
+Bei vielen Themen kommt immer wieder etwas dazu, weil ein Themenbereich und eine Sichtweise nicht abgeschlossen ist, aber auch grundlegend nicht abschließend dargestellt werden kann, dies außerdem auch nicht werden soll. Es soll auch nicht der Eindruck entstehen, als ob man Themenbereiche überhaupt abschließen könne. Das kann man nicht, solange es Menschen gibt, die Lebendig sind und Aspekte auf immer wieder andere Perspektive betrachten. Das nennt man Fortschritt, und dieser ist notwendig dass es ein gutes Morgen gibt.
 
-Der Stil des Blog kann als Form diese Vielfalt am besten abbilden, weil er nach hinten offen bleibt – und wurde deshalb gewählt.
+Der Stil des Blog kann als Form eine Vielfalt von Perspektiven und Themenbereiche am besten abbilden, weil er nach hinten offen bleibt – und wurde aus diesen Gründen als Darstellungsform gewählt.
 
-### Was ist mit Wissenschaftlichkeit (und die Referenz darauf) gemeint;
+### [4] Was ist mit einer Wissenschaftlichkeit (und häufige Referenz darauf) gemeint;
 
 Es wird *die wissenschaftliche Methode* benutzt, die eine lange Tradition hat, und bis zurück zur altgriechischen Zeit von Plato, Sokrates und Aristoteles geht. 
 
