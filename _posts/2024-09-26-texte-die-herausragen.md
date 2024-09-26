@@ -13,4 +13,18 @@ Der Begriff “humanistische Standards” evoziert Bilder von einer Gesellschaft
 
 ----
 
+### Der Wiederaufbau des Gemeinwesens als Antwort auf multiple Krisen
 
+Unsere Zeit ist geprägt von einer Vielzahl miteinander verwobener Krisen: Klimawandel, soziale Ungleichheit, politische Polarisierung und zuletzt die COVID-19-Pandemie. Diese Krisen haben tiefgreifende Auswirkungen auf unsere Gesellschaften und fordern uns heraus, neue Wege zu finden, um eine nachhaltige und gerechte Zukunft zu gestalten. Eine vielversprechende Antwort auf diese Herausforderungen liegt im Wiederaufbau des Gemeinwesens.
+
+[Text lesen](https://s2030c.github.io/gemeinwesen/antwort-auf-krisen-wiederaufbau-des-gemeinwesen/)
+
+----
+
+### Der Wert des Menschen, und der Mensch als Selbstzweck
+
+Der Wert des Menschen ist eine Frage, die Philosophen seit Jahrtausenden beschäftigt. Während sich die Antworten im Laufe der Zeit gewandelt haben, besteht ein grundlegender Konsens darin, dass der Mensch einen Eigenwert besitzt, der über seinen Nutzen für andere hinausgeht. Immanuel Kant formulierte es prägnant: Der Mensch soll niemals bloß als Mittel, sondern immer zugleich als Zweck an sich selbst betrachtet werden.
+
+[Text lesen](https://s2030c.github.io/gesellschaftskritik/doc/der-mensch-als-selbstzweck/)
+
+----
