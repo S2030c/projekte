@@ -1,6 +1,6 @@
-  
+---  
 title: Die Vielfalt der möglichen Perspektiven – Ein Kaleidoskop der Wirklichkeit
-
+---
 Die **Welt**, in der wir leben, ist ein komplexes und **vielschichtiges Gebilde.** Was wir als **Realität** **wahrnehmen**, ist geprägt von unseren **individuellen Erfahrungen**, **Überzeugungen** und **Wertvorstellungen**. Jeder Mensch trägt eine **einzigartige Brille**, durch die er die Welt betrachtet. Diese Brille ist **gefärbt** von unserem **kulturellen Hintergrund**, unserer sozialen **Herkunft**, unserem Bildungsstand und unseren **persönlichen Lebensgeschichten**.
 
 Die **Vielfalt der möglichen Perspektiven** ist **unendlich**. 
