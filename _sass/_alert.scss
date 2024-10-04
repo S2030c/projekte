@@ -10,8 +10,10 @@ $orange: #f87d09;
 $dark-pink: #e91e63;
 $purple: #9c27b0;
 $light-purple: #efedff;
+$link-color: #0080FF;
 //Body
 $main-background: $light-purple;
+
 
 
 .title {
@@ -53,6 +55,9 @@ $text-color) {
     position: relative;
     max-width: 960px;
     margin: 0 auto;
+  }
+  .alert-container a, .alert-container a:visited {
+    color:$link-color;
   }
   .close-icon {
     float: right;
