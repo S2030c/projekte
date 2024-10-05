@@ -27,10 +27,17 @@ In die Bereiche ist keine Oberflächliche Angelegenheit, die mal eben nebenbei g
 
 Über manche Aspekte muss man gelegentlich auch mal eine Nacht darüber schlafen. sich einige Vorträge und Publikationen dazu anschauen. Meinungen anderer einholen, oder auch etwas erstmal wieder aus der Hand legen, um später darauf zurückzukommen.
 
+### Eins nach dem anderen
+
+Die Textbereiche sind so angelegt, dass man an beliebiger Stelle »hinein springen« kann. Je nachdem für was man sich interessiert kann man in die eine – oder eine völlig andere Richtung weiter ein-tauchen. 
+
+Die Organisation als Blog erlaubt es durch die Texte hindurch-zu-scrollen um einen Überblick zu bekommen. Eine hierarchische Gliederung gibt es nicht, allerdings sind Inhalte in die Themenbereiche sortiert. 
+
 ### Für manche sind die Bereiche (inhaltlich oder thematisch) einfach, für andere eher schwieriger und für einige gar nicht zugänglich. 
 
 Das lässt sich nicht ändern. Wie es für einen selbst ist, muss jeder selbst herausfinden. 
 
 Mich freut es jedenfalls, wenn sich jemand mit den Bereichen befasst, und noch mehr wenn es zu Erkenntnis und mehr Wissen führt sowie auf irgendeine Art nützlich ist 
+
 
 2024-10-04
