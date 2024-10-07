@@ -6,19 +6,35 @@ permalink: /antworten/
 
 [Inhaltliche Antworten](../antworten-inhaltlich/) sind hier. 
 
+Im folgenden geht es eher um (Antworten zu) strukturellen Aspekten.
+
 ## Was sind “diese Projekte”?
 
-Es ist ein Name, der so gewählt wurde. Es handelt sich um “Repositories” zu Themenbereichen über die **Informationen (in Textform)** entstehen und entstanden sind. 
+Es ist ein Name, der so gewählt wurde. Es handelt sich um “Repositories” mit **Texten zu Themenbereichen** über die **Wissen (in Textform)** entstehen und entstanden sind. 
+
+Dieses Wissen soll hier zu (freier)  öffentlicher Verfügung gestellt werden.
+
+
+
+
 
 ## Was ist das Motiv und Motivation für die Projekte?
 
-Im laufe einer Zeit haben sich Daten, informationen, Sichtweisen und vor allem Prozesse ergeben, die zu einem bestimmten Bild von Welt und Wirklichkeit geführt haben, zu denen die Idee entstanden ist »diese Informationen und Daten, oder das Wissen« weiterzugeben, und in irgendeiner Form anderen zugänglich zu machen. 
+Im laufe einer Zeit haben sich Wissen, Daten, informationen, Sichtweisen und vor allem Prozesse ergeben, die zu einem (wie auch immer gearteten) Bild von "Welt und Wirklichkeit" geführt haben.
 
-Dies hier \<https://s2030c.github.io/projekte/\> ist die momentan gewählte Umsetzung dieser Idee und des Vorhabens. 
+Wissen. Daten, Informationen. Einordnung und damit verbundenes sollen hier dargestellt und frei verfügbar und zugänglich gemacht werden.
+
+
+
+Hier ist die frei zugangliche Umsetzung. 
+
+
+<https://s2030c.github.io/projekte/> 
+
 
 ## Wer ist der Autor der Texte und Informationen?
 
-Im Blog unter About – \<[https://s2030c.github.io/blog/about/](https://s2030c.github.io/blog/about/)\> steht darüber mehr, und werden auch (später) weitere Links dazu angeboten. 
+Im Blog unter About – <[https://s2030c.github.io/blog/about](https://s2030c.github.io/blog/about/)> steht darüber mehr, und werden auch (später) weitere Links dazu angeboten. 
 
 ## Warum wurde Github gewählt als Repo? 
 
@@ -57,5 +73,5 @@ Hinzu kommt, dass man gegebenenfalls einen bestimmten Bereich separat von andere
 
 ----
 
-**Mögen die Texte nützlich sein.**
+
 
