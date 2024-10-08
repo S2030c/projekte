@@ -15,7 +15,10 @@ Es ist ein Name, der so gewählt wurde. Es handelt sich um “Repositories” mi
 Dieses Wissen soll hier zu (freier)  öffentlicher Verfügung gestellt werden.
 
 
+## Transparenz und Offenheit sowie Authentizität 
 
+Die Texte entstehen durch 
+eine tiefe Auseinandersetzung mit dem Thema und spiegeln die persönliche Sichtweise des Autors wider. Sie vermeiden es, Sachverhalte zu beschönigen oder Meinungen zu manipulieren. Stattdessen setzen sie auf klare Argumente und eine ehrliche Darstellung der Fakten. 
 
 
 ## Was ist das Motiv und Motivation für die Projekte?
