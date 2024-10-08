@@ -25,11 +25,24 @@ Der Stil des Blog kann als Form eine Vielfalt von Perspektiven und Themenbereich
 
 ### [4] Was ist mit einer Wissenschaftlichkeit (und häufige Referenz darauf) gemeint;
 
-Es wird *die wissenschaftliche Methode* benutzt, die eine lange Tradition hat, und bis zurück zur altgriechischen Zeit von Plato, Sokrates und Aristoteles geht. 
+Es wird *die wissenschaftliche Methode* benutzt, die eine lange Tradition hat, und bis zurück zur altgriechischen Zeit von Plato, Sokrates und Aristoteles reicht. 
 
 Die wissenschaftliche Methode. Und deren Auslegung wird in den Texten selbst ebenso näher betrachtet.
 
+
+### [5] Für unsere Texte können KI-tools zum Einsatz
+
+KI wird benutzt um beim Schreiben der Texte zu helfen. Dies wird vor allem auch zur Inspiration benutzt.
+
+Jeder Text wird und wurde inhaltlich und strukturell geprüft, bevor er verwendet wird. 
+
+Sowohl Auswahl als auch letzte Prüfung und Durchsicht wurde und wird durch realen menschlichen Geist durchgeführt.
+
+
+
+
 ----
 
-2024-09-22
+2024-09-22   
+2024-10-08
 
