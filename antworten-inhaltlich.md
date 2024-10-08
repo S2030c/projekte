@@ -30,7 +30,7 @@ Es wird *die wissenschaftliche Methode* benutzt, die eine lange Tradition hat, u
 Die wissenschaftliche Methode. Und deren Auslegung wird in den Texten selbst ebenso näher betrachtet.
 
 
-### [5] Für unsere Texte können KI-tools zum Einsatz
+### [5] Für unsere Texte kommen KI-tools zum Einsatz
 
 KI wird benutzt um beim Schreiben der Texte zu helfen. Dies wird vor allem auch zur Inspiration benutzt.
 
