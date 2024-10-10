@@ -1,4 +1,8 @@
 
+
+Die Texte in den Bereichen sind **nicht** nach einer aufeinander aufbauenden Darlegungslogik sortiert, dies muss der Leser:in selbst durch seine Auswahl und Klick auf [LESEN] einbringen.
+
+
 ### [1] Was ist mit Inhalt gemeint?
 
 Inhalt (im Vergleich zur Form) ist das, worum es *in einer Betrachtung* geht, während die Form *die Art der Vermittlung* darstellt.
@@ -15,7 +19,19 @@ Die Frage nach Inhalt – geht schon tief in einzelne Bereiche der Betrachtung h
 
 Es entsteht eine Inspiration durch Aspekte des Lebens sowie verschiedene Prozesse und Ereignisse. Die Gestalt der Wahl ist ein künstlerischer Prozess. Die genaue Analyse wäre schwierig. Es entsteht durch Inspiration.
 
-### [3] Warum ist die Form eines Blog-Stils in der Organisation der Darstellung im Web gewählt?
+## [3] Worauf liegt der Inhaltliche Fokus
+
+Wichtiger Fokus liegt auf:
+
+- Der **Kern** einer (in der Überschrift) aufgerachten Thematik steht im Vordergrund 
+- Einer möglichst *kurzen und pointierten* (auf den entsprechenden Punkt) gebrachten Darstellung
+- Zusätzliche Formulierungen und auch einleitende als auch emotionalisierende oder sonstwie unnötige zusätzliche Beschreibungen wurden weg gelassen
+- Texte sind möglichst kurz gehalten
+- Manchmal werden Texte aufbereitet und mit wichtigen Schlagworten als Fett-geschrieben versehen
+
+
+
+### [4] Warum ist die Form eines Blog-Stils in der Organisation der Darstellung im Web gewählt?
 
 Das trifft den Charakter *wie (beim “Autor”) Inhalt und Themenbereiche entstehen* am besten. Themenbereiche lassen sich oft nicht in kurzer Form und schon gar nicht als eine einheitliche Erzählung erschießen, aber auch nicht als solche darstellen.
 
@@ -23,14 +39,14 @@ Bei vielen Themen kommt immer wieder etwas dazu, weil ein Themenbereich und eine
 
 Der Stil des Blog kann als Form eine Vielfalt von Perspektiven und Themenbereiche am besten abbilden, weil er nach hinten offen bleibt – und wurde aus diesen Gründen als Darstellungsform gewählt.
 
-### [4] Was ist mit einer Wissenschaftlichkeit (und häufige Referenz darauf) gemeint;
+### [5] Was ist mit einer Wissenschaftlichkeit (und häufige Referenz darauf) gemeint;
 
 Es wird *die wissenschaftliche Methode* benutzt, die eine lange Tradition hat, und bis zurück zur altgriechischen Zeit von Plato, Sokrates und Aristoteles reicht. 
 
 Die wissenschaftliche Methode. Und deren Auslegung wird in den Texten selbst ebenso näher betrachtet.
 
 
-### [5] Für unsere Texte kommen KI-tools zum Einsatz
+### [6] Für unsere Texte kommen KI-tools zum Einsatz
 
 KI wird benutzt um beim Schreiben der Texte zu helfen. Dies wird vor allem auch zur Inspiration benutzt.
 
@@ -44,5 +60,6 @@ Sowohl Auswahl als auch letzte Prüfung und Durchsicht wurde und wird durch real
 ----
 
 2024-09-22   
-2024-10-08
+2024-10-08   
+2024-10-10
 
