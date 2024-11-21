@@ -3,7 +3,7 @@
 Die Texte in den Bereichen sind **nicht** nach einer aufeinander aufbauenden Darlegungslogik sortiert, dies muss der Leser:in selbst durch seine Auswahl und Klick auf [LESEN] einbringen.
 
 
-### [1] Was ist mit Inhalt gemeint?
+## [1] Was ist mit Inhalt gemeint?
 
 Inhalt (im Vergleich zur Form) ist das, worum es *in einer Betrachtung* geht, während die Form *die Art der Vermittlung* darstellt.
 
@@ -15,7 +15,7 @@ Ein und dieselbe Idee kann je nach Formulierung ganz unterschiedliche Bedeutunge
 
 Die Frage nach Inhalt – geht schon tief in einzelne Bereiche der Betrachtung hinein.
 
-### [2] Wie entsteht die Wahl der einzelnen Bereiche und Themenfelder für Inhalt und Texte?
+## [2] Wie entsteht die Wahl der einzelnen Bereiche und Themenfelder für Inhalt und Texte?
 
 Es entsteht eine Inspiration durch Aspekte des Lebens sowie verschiedene Prozesse und Ereignisse. Die Gestalt der Wahl ist ein künstlerischer Prozess. Die genaue Analyse wäre schwierig. Es entsteht durch Inspiration.
 
