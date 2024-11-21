@@ -15,7 +15,7 @@ Ein und dieselbe Idee kann je nach Formulierung ganz unterschiedliche Bedeutunge
 
 Die Frage nach Inhalt – geht schon tief in einzelne Bereiche der Betrachtung hinein.
 
-## [2] Wie entsteht die Wahl der einzelnen Bereiche und Themenfelder für Inhalt und Texte?
+## [2] Wie entsteht die Wahl der einzelnen Bereiche und Themenfelder für Inhalt und Text?
 
 Es entsteht eine Inspiration durch Aspekte des Lebens sowie verschiedene Prozesse und Ereignisse. Die Gestalt der Wahl ist ein künstlerischer Prozess. Die genaue Analyse wäre schwierig. Es entsteht durch Inspiration.
 
@@ -50,7 +50,7 @@ Es wird *die wissenschaftliche Methode* benutzt, die eine lange Tradition hat, u
 Die wissenschaftliche Methode. Und deren Auslegung wird in den Texten selbst ebenso näher betrachtet.
 
 
-### [7] Für Texte kommen KI-tools zum Einsatz.
+## [7] Für Texte kommen KI-tools zum Einsatz.
 
 KI wird benutzt um beim Schreiben der Texte zu helfen und zu unterstützen. Dies wird vor allem auch wegen guter Inspiration durch KI benutzt. Large Language Modells kommen auf Bezüge, für die man selbst Stunden oder Tage brauchen würde diese zu entwickeln.
 
@@ -60,6 +60,8 @@ KI wird benutzt um beim Schreiben der Texte zu helfen und zu unterstützen. Dies
 
 
 
+
+   
 ----
 
 2024-09-22      
