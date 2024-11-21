@@ -35,7 +35,7 @@ Wichtiger Fokus liegt auf:
 Jeder Text wird sorgfältig und tief entwickelt und erstellt. Der Masstab liegt auf der **Qualität von Textmaterial**. Die aufgebrachten Aspekte haben gesellschaftliche (politische) und individuelle (persönliche, psychologische), sowie menschliche (seelische, geistige) Relevanz. 
 
 
-### [5] Warum ist die Form eines Blog-Stils in der Organisation der Darstellung im Web gewählt?
+## [5] Warum ist die Form eines Blog-Stils in der Organisation der Darstellung im Web gewählt?
 
 Das trifft den Charakter *wie (beim “Autor”) Inhalt und Themenbereiche entstehen* am besten. Themenbereiche lassen sich oft nicht in kurzer Form und schon gar nicht als eine einheitliche Erzählung erschießen, aber auch nicht als solche darstellen.
 
@@ -43,20 +43,19 @@ Bei vielen Themen kommt immer wieder etwas dazu, weil ein Themenbereich und eine
 
 Der Stil des Blog kann als Form eine Vielfalt von Perspektiven und Themenbereiche am besten abbilden, weil er nach hinten offen bleibt – und wurde aus diesen Gründen als Darstellungsform gewählt.
 
-### [6] Was ist mit einer Wissenschaftlichkeit (und häufige Referenz darauf) gemeint;
+## [6] Was ist mit "Referenz auf Wissenschaftlichkeit" gemeint?
 
 Es wird *die wissenschaftliche Methode* benutzt, die eine lange Tradition hat, und bis zurück zur altgriechischen Zeit von Plato, Sokrates und Aristoteles reicht. 
 
 Die wissenschaftliche Methode. Und deren Auslegung wird in den Texten selbst ebenso näher betrachtet.
 
 
-### [7] Für Texte kommen KI-tools zum Einsatz
+### [7] Für Texte kommen KI-tools zum Einsatz.
 
-KI wird benutzt um beim Schreiben der Texte zu helfen. Dies wird vor allem auch zur Inspiration benutzt.
+KI wird benutzt um beim Schreiben der Texte zu helfen und zu unterstützen. Dies wird vor allem auch wegen guter Inspiration durch KI benutzt. Large Language Modells kommen auf Bezüge, für die man selbst Stunden oder Tage brauchen würde diese zu entwickeln.
 
-Jeder Text wird und wurde inhaltlich und strukturell geprüft, bevor er verwendet wird. 
-
-Sowohl Auswahl als auch letzte Prüfung und Durchsicht wurde und wird durch realen menschlichen Geist durchgeführt.
+- Jeder Text wird und wurde inhaltlich und strukturell geprüft, bevor er verwendet wird. 
+- Sowohl Auswahl als auch letzte Prüfung und Durchsicht wurde und wird durch realen menschlichen Geist durchgeführt.
 
 
 
