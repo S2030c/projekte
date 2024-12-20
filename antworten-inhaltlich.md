@@ -52,13 +52,17 @@ Die wissenschaftliche Methode. Und deren Auslegung wird in den Texten selbst ebe
 
 ## [7] Für Texte kommen KI-tools zum Einsatz.
 
-KI wird benutzt um beim Schreiben der Texte zu helfen und zu unterstützen. Dies wird vor allem auch wegen guter Inspiration durch KI benutzt. Large Language Modells kommen auf Bezüge, für die man selbst Stunden oder Tage brauchen würde diese zu entwickeln.
+KI wird benutzt um beim Schreiben der Texte zu helfen und zu unterstützen. Dies wird vor allem auch zur Inspiration durch KI benutzt. Large Language Modells kommen auf Bezüge, für die man selbst Stunden oder Tage brauchen würde diese zu finden und entwickeln.
 
-- Jeder Text wird und wurde inhaltlich und strukturell geprüft, bevor er verwendet wird. 
+- Jeder Text wird und wurde inhaltlich sowie strukturell geprüft, bevor er verwendet wird. 
 - Sowohl Auswahl als auch letzte Prüfung und Durchsicht wurde und wird durch realen menschlichen Geist durchgeführt.
 
 
+## [8] Brisanz, Härte und Deutlichkeit
 
+Manche Beiträge gehen auf mancherlei Art und Weise ziemlich weit in tiefe und weite der Thematik. Es sollen hier Aspekte angesprochen und beleuchtet werden, die ansonsten auch mal untergehen und unbeachtet bleiben. 
+
+Yman kann sich daran stören, oder auch einen Anlass sehen über solche Bereiche mal nachzudenken, und seine Vorstellungen ggf in Bereiche ausweiten, die man vorher vielleicht nicht beachtet hatte. 
 
 
    
@@ -67,5 +71,5 @@ KI wird benutzt um beim Schreiben der Texte zu helfen und zu unterstützen. Dies
 2024-09-22      
 2024-10-08   
 2024-10-10   
-2024-11-21
-
+2024-11-21   
+2024-12-20   
