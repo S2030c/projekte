@@ -4,9 +4,11 @@ title: Info Projekte
 permalink: /info/
 ---
 
-Hier ist eine **Liste der Projekte**, die sich ergeben haben und derzeit bearbeitet werden. 
+**Liste von Publikations-Projekten**. 
 
-Die wurden auf unterschiedliche Sites verteilt, weil die Themenbereiche differenziert betrachtet werden sollten, um sie nicht zu sehr ineinander fließen zu lassen. Die Perspektiven und Betrachtungen sind *jeweils etwas andere*. Und ein »alles zusammen betrachten« würde dem Character der Bereiche nicht gerecht werden. 
+In Themenbereiche Differenziert und verteilt. 
+
+Die Perspektiven und Betrachtungen sind *jeweils etwas andere*, deshalb wurden sie auf dieser Art verteilt.
 
 
-Stand: 2024-09-18
+Stand: 2025-02-27
